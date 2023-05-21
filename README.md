@@ -1,7 +1,7 @@
-# EMLO Capstone
+# End-to-End MLOps Pipeline using SageMaker Pipelines
 
 
-The goal of the capstone is to run an end-to-end pipeline using SageMaker along with 
+The goal of the project is to run an end-to-end pipeline using SageMaker along with 
 - hyper-parameter tuning
 - model evaluation
 - model explanation
